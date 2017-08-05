@@ -1,0 +1,20 @@
+{
+  "name": "babel-preset-orangeyyy",
+  "version": "1.0.0",
+  "description": "babel preset for orangeyyy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babel",
+    "preset"
+  ],
+  "author": "orangeyyy",
+  "license": "ISC",
+  "dependencies": {
+    "babel-plugin-transform-flow-strip-types": "^6.22.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
+  }
+}
